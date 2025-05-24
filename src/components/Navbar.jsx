@@ -173,7 +173,7 @@ const Navbar = () => {
         {/* Social Icons - Desktop */}
         <div className='hidden sm:flex flex-row gap-6 items-center'>
           <a
-            href='https://linkedin.com/in/yourlinkedin'
+            href='https://www.linkedin.com/in/-samrat-dutta/'
             target='_blank'
             rel='noopener noreferrer'
             className='text-secondary hover:text-white text-2xl'
@@ -182,7 +182,7 @@ const Navbar = () => {
             <FaLinkedin />
           </a>
           <a
-            href='https://instagram.com/yourinstagram'
+            href='https://www.instagram.com/samrat_dutta31/'
             target='_blank'
             rel='noopener noreferrer'
             className='text-secondary hover:text-white text-2xl'
@@ -191,7 +191,7 @@ const Navbar = () => {
             <FaInstagram />
           </a>
           <a
-            href='https://github.com/yourgithub'
+            href='https://github.com/CodingEnthus'
             target='_blank'
             rel='noopener noreferrer'
             className='text-secondary hover:text-white text-2xl'
@@ -235,7 +235,7 @@ const Navbar = () => {
             {/* Social Icons - Mobile */}
             <div className='mt-4 flex flex-row justify-center gap-6'>
               <a
-                href='https://linkedin.com/in/yourlinkedin'
+                href='https://www.linkedin.com/in/-samrat-dutta/'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='text-secondary hover:text-white text-xl'
@@ -244,7 +244,7 @@ const Navbar = () => {
                 <FaLinkedin />
               </a>
               <a
-                href='https://instagram.com/yourinstagram'
+                href='https://www.instagram.com/samrat_dutta31/'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='text-secondary hover:text-white text-xl'
@@ -253,7 +253,7 @@ const Navbar = () => {
                 <FaInstagram />
               </a>
               <a
-                href='https://github.com/yourgithub'
+                href='https://github.com/CodingEnthus'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='text-secondary hover:text-white text-xl'
